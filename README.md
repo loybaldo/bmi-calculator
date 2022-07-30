@@ -1,10 +1,8 @@
 # BMI Calculator
 This is our TP (Task Performance) at STI College Gensan. This app is made to quickly calculate your BMI.
 
-## Leader
-- Juanito Jr. Baldo
-
 ## Group members
+- Juanito Jr. Baldo (Leader)
 - Deobert Abiso
 - Jona Belle Cuna
 - Margart Ampan
