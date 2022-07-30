@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ext_note_bg.xml" value="0.1475" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_angle_left_outline.xml" value="0.154" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_angle_right_outline.xml" value="0.154" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_arrow_back_outline.xml" value="0.152" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_arrow_back_outline_01.xml" value="0.152" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_arrow_forward_outline.xml" value="0.1305" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_arrow_ios_back_outline.xml" value="0.1305" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_arrow_ios_forward_outline.xml" value="0.1305" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_arrow_left_outline.xml" value="0.152" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_arrow_right_outline.xml" value="0.154" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_baseline_settings.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_book.xml" value="0.112" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_book_open_outline.xml" value="0.112" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_chevron_left_outline.xml" value="0.161" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_chevron_right_outline.xml" value="0.161" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_eye_closed_outline.xml" value="0.1515" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_file_text_outline.xml" value="0.1515" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_globe_outline.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_home_outline.xml" value="0.1515" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_info_outline.xml" value="0.1515" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.161" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1515" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1515" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_menu_outline.xml" value="0.152" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.182" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_message_circle_outline.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_minus_outline.xml" value="0.1625" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_moon_outline.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_paper_plane_outline.xml" value="0.1515" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_plus_outline.xml" value="0.1625" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_plus_outline_01.xml" value="0.1625" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_settings_outline.xml" value="0.161" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_settings_outline_01.xml" value="0.152" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ic_wifi_off_outline.xml" value="0.146" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/illustration_1.xml" value="0.1305" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/illustration_1_background.xml" value="0.1325" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/illustration_2.xml" value="0.12" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/input_dialog_bg.xml" value="0.148" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/res_calculator_screen_bg.xml" value="0.152" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/res_illustration_1.xml" value="0.161" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/res_illustration_2.xml" value="0.161" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/res_main_screen_bg.xml" value="0.1635" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/res_material_bg.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/res_skeleton_bg.xml" value="0.146" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/res_tower.xml" value="0.146" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/ripple_effect.xml" value="0.141" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/drawable/side_nav_bar.xml" value="0.1775" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/font/nunito.xml" value="0.1648148148148148" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout-v26/activity_about.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/activity_about.xml" value="0.22" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/activity_calculator.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/activity_intro.xml" value="0.15555555555555556" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/activity_main_screen.xml" value="0.18" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/activity_privacy.xml" value="0.22" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/activity_settings.xml" value="0.16153846153846155" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/activity_terms.xml" value="0.22" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/activity_tips.xml" value="0.22" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/app_bar_about.xml" value="0.1482905982905983" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.22" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/content_calculator.xml" value="0.13974358974358975" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/drawer_item.xml" value="0.11" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/drawer_menu.xml" value="0.18" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/fragment_slideshow.xml" value="0.20598290598290597" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/input_dialog.xml" value="0.14" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/input_dialog_bg.xml" value="0.16153846153846155" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/layout_about.xml" value="0.10213032581453634" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.18" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/layout_home.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/layout_no_internet.xml" value="0.22" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/layout_skeleton_loader.xml" value="0.22" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/layout_slider.xml" value="0.22" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/nav_header_main.xml" value="0.18" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/settings_activity.xml" value="0.15256410256410258" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/layout/slider_layout.xml" value="0.18" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/menu/action_menu.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/menu/activity_main2_drawer.xml" value="0.13974358974358975" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/menu/calculator.xml" value="0.13974358974358975" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/menu/drawer.xml" value="0.33" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/menu/main.xml" value="0.1452991452991453" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/menu/main_activity2.xml" value="0.13974358974358975" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/mipmap-anydpi-v26/illustration_1.xml" value="0.1325" />
+        <entry key="..\:/LOYLOY/Android_Projects/BMICalculator/app/src/main/res/xml/root_preferences.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/drawable/ic_clock_outline.xml" value="0.131" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/drawable/ic_eye_closed_outline.xml" value="0.14" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/drawable/ic_moon_outline.xml" value="0.1395" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/drawable/ic_plus_outline.xml" value="0.1395" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/drawable/ic_stat_danger.xml" value="0.1395" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/drawable/ic_trash_outline.xml" value="0.1395" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/layout/activity_about.xml" value="0.21" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/layout/activity_history.xml" value="0.19" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/layout/activity_intro.xml" value="0.20598290598290597" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/layout/activity_main.xml" value="0.14957264957264957" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/layout/activity_privacy.xml" value="0.1" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/layout/activity_splash.xml" value="0.20598290598290597" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/layout/activity_terms.xml" value="0.14957264957264957" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/layout/app_bar_main.xml" value="0.20598290598290597" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/layout/fragment_home.xml" value="0.16" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/layout/item_history.xml" value="0.20512820512820512" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/menu/action_history.xml" value="0.20598290598290597" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/menu/action_menu.xml" value="0.1371794871794872" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/LOYLOY/Coding Projects/Android Projects/BMICalculator/app/src/main/res/xml/root_preferences.xml" value="0.1371794871794872" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.15" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

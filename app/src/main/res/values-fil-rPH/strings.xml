@@ -1,0 +1,100 @@
+<resources>
+    <!-- Intro screen -->
+    <string name="intro_title_1">Welcome!</string>
+    <string name="intro_title_2">Kalkulahin ang iyong BMI</string>
+    <string name="intro_title_3">Magsimula tayo!</string>
+    <string name="intro_desc_1">Salamat sa pagpili sa app na ito. Dito, nagbibigay kami ng mga serbisyong magpapaalam sa iyo sa katayuan ng iyong BMI.</string>
+    <string name="intro_desc_2">Kinakailangan ang BMI sa iba\'t ibang layunin. Kaya, ginawa namin ang app na ito upang makalkula ito nang walang anumang abala.</string>
+    <string name="intro_desc_3">Upang magsimula sa pag-compute ng iyong BMI, kailangan mong ibigay ang ilan sa iyong personal na impormasyon.</string>
+    <string name="skip">Laktawan</string>
+    <string name="next">Susunod</string>
+    <string name="back">Balik</string>
+    <string name="finish">Tapos na</string>
+    <!-- Main Screen -->
+    <string name="label_height">Height (cm)</string>
+    <string name="label_weight">Timbang (kg)</string>
+    <string name="label_age">Edad (taon)</string>
+    <string name="label_gender">Kasarian</string>
+    <string name="male">Lalaki</string>
+    <string name="female">Babae</string>
+    <string name="enter">Enter</string>
+    <string name="calculate">Kalkulahin</string>
+    <string name="height">Height</string>
+    <string name="weight">Timbang</string>
+    <string name="enter_height">Ilagay ang iyong height</string>
+    <string name="enter_weight">Ilagay ang iyong timbang</string>
+    <!-- BMI Classification -->
+    <string name="under_weight">underweight</string>
+    <string name="normal">Normal</string>
+    <string name="over_weight">Sobra sa timbang</string>
+    <string name="obese_1">Obese 1</string>
+    <string name="obese_2">Obese 2</string>
+    <string name="obese_3">Obese 3</string>
+    <!-- Drawer items -->
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="report_problem">Mag-ulat ng problema</string>
+    <string name="terms_conditions">Tuntunin at kundisyon</string>
+    <string name="privacy_policy">Patakaran sa privacy</string>
+    <string name="about_us">Tungkol sa amin</string>
+    <!-- Settings -->
+    <string name="theme">Tema</string>
+    <string name="dark_theme">Dark na tema</string>
+    <string name="light_theme">Maliwanag na tema</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="language">Wika</string>
+    <string name="appearance">Appearance</string>
+    <string name="theme_summary">Bawasan ang liwanag</string>
+    <string name="general">General</string>
+    <string name="select_lang">Pumili ng wika</string>
+    <string name="lang_summary">Wika ng app</string>
+    <!-- Wala ko kabalo ani -->
+    <string name="task_perf">Pagganap ng Gawain ng Mobile App Dev</string>
+    <string name="documents">Documents</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Mga Mensahe</string>
+    <string name="sync_header">I-sync</string>
+    <!-- Messages Preferences -->
+    <string name="signature_title">Iyong lagda</string>
+    <string name="reply_title">Default na pagkilos sa pagtugon</string>
+    <!-- Article headings -->
+    <string name="who_are_we">Sino kami?</string>
+    <string name="what_we_do">Ano ang ginagawa namin?</string>
+    <string name="recommended">Recommended</string>
+    <string name="explore">Explore</string>
+    <string name="show_recommended">Ipakita ang inirerekomenda</string>
+    <string name="bmi_normal_msg">Normal ang iyong BMI</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="show_tips">Mga tips</string>
+    <string name="tips">Mga Tips</string>
+    <!-- Error messages -->
+    <string name="err_get_data_msg">Nagkaroon ng error sa pagkuha ng data.</string>
+    <string name="no_internet">Walang internet!</string>
+    <string name="no_internet_msg">Hindi kami makakonekta sa server. Pakisuri ang iyong koneksyon sa internet.</string>
+    <string name="retry">Retry</string>
+    <string name="reload">I-reload</string>
+    <string name="info_used">Pagkolekta at paggamit ng impormasyon</string>
+    <string name="log_data">Log data</string>
+    <string name="service_providers">Mga service provider</string>
+    <string name="security">Seguridad</string>
+    <string name="g2tp_privacy_policy">Patakaran sa privacy ng G2TP</string>
+    <string name="header">Header</string>
+    <string name="there_was_err">Nagkaroon ng error</string>
+    <string name="history">History</string>
+    <string name="save">I-save</string>
+    <string name="delete_all">Tanggalin lahat</string>
+    <string name="clear_history">I-clear ang history</string>
+
+    <string name="delete_history">I-delete ang history</string>
+    <string name="delete_history_msg">Gusto mo bang i-delete ang history?</string>
+    <string name="delete">Delete</string>
+    <string name="undo">Undo</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="history_deleted">Na-delete na ang history</string>
+    <string name="developers">Developers</string>
+
+</resources>

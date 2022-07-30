@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129475077955",
+    "project_id": "taskperformance-6b400",
+    "storage_bucket": "taskperformance-6b400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129475077955:android:d95527e212cbc74c1c71f6",
+        "android_client_info": {
+          "package_name": "com.tp.bmicalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129475077955-jfml00bcmjr4gjmkhh3tlamg02kme0d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMTsWqprR_QXNZVl-pYNfjtdGphBRC90M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129475077955-jfml00bcmjr4gjmkhh3tlamg02kme0d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

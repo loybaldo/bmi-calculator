@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navHome">
+
+    <fragment
+        android:id="@+id/navHome"
+        android:name="com.tp.bmicalculator.ui.home.HomeFragment"
+        tools:layout="@layout/fragment_home" />
+
+    <activity
+        android:id="@+id/navSettings"
+        android:name="com.tp.bmicalculator.SettingsActivity"
+        android:label="@string/settings"
+        tools:layout="@layout/activity_settings" />
+
+    <activity
+        android:id="@+id/navHistory"
+        android:name="com.tp.bmicalculator.HistoryActivity"
+        android:label="@string/settings"
+        tools:layout="@layout/activity_settings" />
+
+    <activity
+        android:id="@+id/navTerms"
+        android:name="com.tp.bmicalculator.TermsActivity"
+        android:label="@string/terms_conditions"
+        tools:layout="@layout/activity_terms" />
+
+    <activity
+        android:id="@+id/navPrivacy"
+        android:name="com.tp.bmicalculator.PrivacyActivity"
+        android:label="@string/privacy_policy"
+        tools:layout="@layout/activity_privacy" />
+
+    <activity
+        android:id="@+id/navAbout"
+        android:name="com.tp.bmicalculator.AboutActivity"
+        android:label="@string/about_us"
+        tools:layout="@layout/activity_about" />
+
+</navigation>

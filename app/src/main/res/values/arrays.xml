@@ -1,0 +1,20 @@
+<resources>
+    <!-- Language Preference -->
+    <string-array name="lang_entries">
+        <item>System</item>
+        <item>Cebuano</item>
+        <item>English</item>
+        <item>Filipino</item>
+        <item>Japanese</item>
+        <item>Thai</item>
+    </string-array>
+
+    <string-array name="lang_values">
+        <item>system</item>
+        <item>cebuano</item>
+        <item>english</item>
+        <item>filipino</item>
+        <item>japanese</item>
+        <item>thai</item>
+    </string-array>
+</resources>

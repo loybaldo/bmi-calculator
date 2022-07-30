@@ -1,0 +1,16 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory app:title="@string/general">
+
+        <SwitchPreference
+            app:key="themeKey"
+            app:title="@string/dark_theme"
+            android:summaryOn="@string/enabled"
+            android:summaryOff="@string/disabled"
+            android:defaultValue="false"
+            app:icon="@drawable/ic_moon_outline"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

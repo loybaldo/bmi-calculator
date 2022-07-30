@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingHorizontal="30dp"
+    android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/onBoardingImg"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/res_illus_girl_smile"
+            tools:ignore="ContentDescription"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/onBoardingTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            android:maxWidth="300sp"
+            android:text="@string/intro_title_1"
+            android:textColor="?attr/colorControlNormal"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/onBoardingDesc"
+            android:layout_width="wrap_content"
+            android:maxWidth="300sp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="150dp"
+            android:layout_gravity="center"
+            android:text="@string/intro_desc_1"
+            android:textColor="?attr/colorControlNormal"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:textAlignment="center"/>
+
+</LinearLayout>
