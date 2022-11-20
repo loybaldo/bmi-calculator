@@ -1,7 +1,8 @@
 ![BMI-Calculator-Banner.jpg](https://i.postimg.cc/B6zcShB7/BMI-Calculator-Banner.jpg)
 
 # BMI Calculator
-This is our TP (Task Performance) at STI College Gensan. This app is made to quickly calculate your BMI.
+
+This is a collaborative project at STI College Gensan that serves as our TP. Your BMI may be determined with this app.
 
 ## Group members
 
