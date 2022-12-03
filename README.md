@@ -2,7 +2,7 @@
 
 # BMI Calculator
 
-This is a collaborative project at STI College Gensan that serves as our TP. Your BMI may be determined with this app.
+This is a collaborative project at STI College Gensan that serves as our TP.
 
 ## Group members
 
